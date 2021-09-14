@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/fondo-sombra.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+
+}
+
+.Registrar {
+    width: 320px;
+    height: 420px;
+    background:  url(../img/backgruond.jpg);  
+    color: #fff;
+    border-radius: 2%;
+    box-shadow: 10px 10px 20px black;
+    top: -22%;
+    left: 28%;
+    position: absolute;
+    transform: translate(50%, 50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+
+}
+ 
+.Registrar .avatar {
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: -15%;
+    left: 35%;
+
+
+ }

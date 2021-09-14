@@ -1,0 +1,38 @@
+body{
+    background: rgb(255, 255, 255);
+}
+
+img{
+    width: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+nav{
+    float: right;
+    list-style: none;
+    padding: 10px;
+    margin-right: 850px;
+    margin-top: -10px;
+    
+
+}
+
+a{
+    text-decoration: none;
+    font-style: normal;
+    color: aliceblue;
+}
+
+li{
+    float: left;
+    list-style: none;
+    padding: 20px;
+}
+
+header{
+    background: url(../img/fondo-sombra.jpg);
+    box-shadow: 10px 10px 20px black;
+    
+}
